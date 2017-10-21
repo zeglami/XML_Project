@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE >
+<article lang="fr">
+  <sect1>
+    <title>Application web: gestion hôtelière</title>
+    <sect2>
+      <title>1-CONTEXE ET DÉFINITION DU PROBLÈME</title>
+      <para>La gestion hôtelière est une vitalité indispensable dans le déroulement des activités normale d’un hôtel. Pour faciliter l’accès aux informations pratiques facilement depuis internet. Il s’agit donc de répondre à cette demande, en créant un site Web, sur lequel diverses informations apparaîtront. Les clients demandent de pouvoir télécharger les menus Ils désirent également pouvoir visualiser toutes les informations liées aux chambres d’hôtel (leur prix, une description. . . ), au restaurant (les différentes salles qui le compose, les plats disponibles . . . ), les tarifs des différentes prestations. </para>
+    </sect2>
+    <sect2>
+      <title>2-OBJECTIF</title>
+      <para>Conception et l’implémentation d’une application de gestion de Réservation hôtelière qui prendra en compte toutes les contraintes qui peuvent survenir lorsqu’un agent hôtelier établi des réservations. </para>
+    </sect2>
+    <sect2>
+      <title>3-PÉRIMÈTRE</title>
+      <para>Notre application concernera tout personne qui veut reserver en ligne dans l’hotel.A travers l’application, il est possibles de vériﬁer la liste des chambres disponible selon les critères souhaiter par le client ainsi de les réserver aﬁn d’être occuper ultérieurement et on offre aussi aux clients la restauration au sien de l’hôtel ou ils peuvent commander des plats </para>
+    </sect2>
+    <sect2>
+      <title>4-PARTIES PRENANTES</title>
+      <para>Les clenits:ce sont les vistiteurs de sites web ou l’hotel Les administrateurs:celui qui gere toutes les aperations qui effectue l’application </para>
+    </sect2>
+    <sect2>
+      <title>5-DESCRIPTIONS DES BESOINS</title>
+      <sect3>
+        <title>5.1 BESOINS FONCTIONNELS</title>
+        <para>L’application doit comporter différentes fonctionnalités nécessaires pour une meilleure gestion.-Gestion des Chambres :Types et catégories.Disponibilité.- Gestion de Réservation :Ajout, annulation, modiﬁcation de la réservation Afﬁcher info.- Gestion du Client :La modiﬁcation et la suppression d’un client Les renseignements.- Gestion de restaurant-Afﬁcher les infos-Paiement par cache ou carte bancaire.</para>
+      </sect3>
+      <sect3>
+        <title>5.1 BESOINS NON FONCTIONNELS</title>
+        <para>Les besoins non fonctionnels représentent les exigences implicites auxquelles le système doit répondre. Pour le bon fonctionnement de notre projet, nous avons dégagé les besoins non fonctionnels suivants : - L’interface doit être ergonomique, conviviale et facile à utiliser. – Le système doit être sécurisé. – Le temps de traitement doit être acceptable </para>
+      </sect3>
+    </sect2>
+  </sect1>
+</article>
